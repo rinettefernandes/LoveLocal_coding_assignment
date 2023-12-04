@@ -1,3 +1,7 @@
+Question: Given a string s consisting of words and spaces, return the length of the last word in the string.
+
+Solution:
+
 import java.util.*;
 public class easy{
     public static void main(String []args){
