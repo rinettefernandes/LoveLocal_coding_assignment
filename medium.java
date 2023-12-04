@@ -1,3 +1,6 @@
+Question: Given an integer array of size n, find all elements that appear more than ⌊ n/3 ⌋ times.
+
+Solution: 
 import java.util.*;
 public class medium{
     public static void main(String []args)
